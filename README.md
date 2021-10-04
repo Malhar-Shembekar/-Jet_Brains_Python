@@ -1,2 +1,5 @@
-# -Jet_Brains_Python
-The projects I have completed as a result of learning Python on JetBrains Academy (hyperskill)
+# To-Do-List
+A project on hyperskill.org by JetBrains Academy.
+
+Create a to-do list, set deadlines, view tasks by day, week, completion.
+Uses sqlite3
